@@ -1,0 +1,6 @@
+streamlit
+groq
+plotly
+python-dotenv
+PyPDF2
+reportlab
